@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/wp4597501.jpg");
+    background-position-x: -50px;
+    font-family: 'Handlee', cursive;
+}
+.main-div{
+  margin-top: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#text{
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
+#bt{
+    background-color: transparent;
+    border-radius: 20px;
+    width: 200px;
+    height: 80px;
+    color: white;
+    border: 2px solid black;
+    font-size: 15px;
+    font-family: 'Handlee', cursive;
+    font-weight: bolder;
+}
